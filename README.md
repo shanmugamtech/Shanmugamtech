@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shanmugamtech
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in Web Developer & Ethical Hacking
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on IBM
 - 📫 How to reach me https://www.linkedin.com/in/darasanr
