@@ -18,6 +18,7 @@
    <a href="https://www.youtube.com/@crackingtech2645" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crackingtech2645" height="30" width="40" /></a> 
   <a href="https://www.hackerrank.com/shanmugamdarasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanmugamdarasan" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/kl_99210041978" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="kl_99210041978" height="30" width="40" /></a>
+  <a href="https://g.dev/darasanr" target="_blank"><img align="center" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="darasanr" height="25" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
